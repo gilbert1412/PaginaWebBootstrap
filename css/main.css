@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    background-color: #f8006f;
+}
+.logo{
+    width: 120px;
+    height: 48px;
+    margin: 10px 10px 10px 10px;
+}
+.botonPequenio{
+    background-color: aliceblue;
+}
+.botonLogin{
+    background-color: #f8006f;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    border: 3px solid aliceblue;
+    border-radius: 40px ;
+    
+}
+h1{
+    font-weight: bold;
+    font-size: 40PX;
+    margin-top: 30px;
+    
+}
+h3{
+    font-weight: bold;
+    margin-top: 10PX;
+   
+    
+}
+h5{
+    margin-top: 20px;
+}
+.acerca{
+    padding-top: 20px;
+}
+.btn-slider{
+   
+    background-color:#ff838d ;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.img-principal{
+    height: 480px;
+}
+.btn-contenido{
+    background-color:#ff838d ;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+.segundoContenedor{
+   margin-top: 2px;
+   background: blue;
+    background-image: url(../img/fondo.png);
+    
+    padding-top: 50px;
+    border-top-left-radius: 40px;
+  
+    
+}
+.celular2{
+ 
+    height: 400px;
+}
